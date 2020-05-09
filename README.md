@@ -12,7 +12,8 @@
         
         -make sure that the fruits are of different shapes as the feature extracted from the image is its shape.
         
-        -also ive put 5 neurons in the single middle layer of neurons. You can increase it if you increase the output classes or/and the number of inputs.
+        -also ive put 5 neurons in the single middle layer of neurons. You can increase it if you increase 
+         the output classes or/and the number of inputs.
         
         -its better if the number of inputs is small as the network gets easily converged.
         
